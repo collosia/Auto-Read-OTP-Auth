@@ -1,5 +1,4 @@
-
-#Auto-Read-OTP-Auth
+Auto-Read-OTP-Auth
 
 Firebase SMS OTP Authentication with auto read feature.
 
